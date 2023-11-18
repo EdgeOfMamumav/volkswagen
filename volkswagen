@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Назва сторінки</title>
+</head>
+<body>
+
+    <h1>Мій улюблений автомобіль</h1>
+    <a href="https://ru.wikipedia.org/wiki/Volkswagen_Polo">Volkswagen Polo</a>
+    
+    <br>
+
+    <img src="https://cdn.riastatic.com/photosnewr/auto/reviews_photo/volkswagen-polo__15779-460x345.jpg" alt="Volkswagen Polo">
+    
+    <br>
+        
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/uIJaxLWeVU8" frameborder="0" allowfullscreen></iframe>
+         
+</body>
+</html>
